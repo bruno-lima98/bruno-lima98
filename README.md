@@ -40,11 +40,11 @@ Fique a vontade para explorar e acompanhar minha jornada!
 
 ## 📝 Projetos Pessoais
 
-### 1️⃣ Popularidade de um Livro
+#### 1️⃣ **Popularidade de um Livro**
 > Foram analisados os fatores que influenciam a popularidade de livros usando dados públicos de ratings e vendas.
 
 - **Data:** Out/2025  
 - **Tecnologias:** Python, Pandas, Matplotlib, Scikit-learn  
 - **Técnica:** Regressão Linear  
 - **Resultado:** 
-- **Repositório:** [Link para o notebook](#)  
+- **Repositório:**
