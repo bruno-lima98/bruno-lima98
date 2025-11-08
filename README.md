@@ -1,25 +1,20 @@
-# 👨‍💻 Bruno Lima
-**`Data Analyst` | `Data Scientist em formação`**
+# 👨‍💻 Bruno Lima  
+**`Data Analyst` | `Aspiring Data Scientist`**
 
-Olá! Sou o Bruno, tenho 27 anos e estou em constante evolução na área de Dados.  
-Sou formado em Engenharia Mecânica pela Unicamp e atuo como Analista de Dados há cerca de 2 anos.
+Hello! I'm Bruno, 27 years old, and I’m constantly improving myself in the Data field.  
+I hold a degree in Mechanical Engineering from Unicamp and have been working as a Data Analyst for about two years.
 
-Após me dedicar exclusivamente à análise de dados, decidi aprofundar meus conhecimentos em **Ciência de Dados** e **Machine Learning**.  
-Este repositório é meu espaço para compartilhar **projetos pessoais** e experimentos práticos.  
+After focusing my career entirely on Data Analysis, I decided to deepen my knowledge in Data Science and Machine Learning.  
 
-Fique a vontade para explorar e acompanhar minha jornada!
+This repository is my space to share personal projects, practical experiments, and my learning journey in the world of data.  
 
+Feel free to explore and follow along!
 
-## 🤖 Linguagens & Tecnologias
+## 🤖 Languages & Technologies
 <img 
     aling='left'
     width='30px'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-    aling='left'
-    width="30px" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014"
 />
 <img 
     aling='left'
@@ -38,13 +33,27 @@ Fique a vontade para explorar e acompanhar minha jornada!
 />
 
 
-## 📝 Projetos Pessoais
+## 📝 Data Science & Machine Learning Projects
 
-#### 1️⃣ **Popularidade de um Livro**
-> Foram analisados os fatores que influenciam a popularidade de livros usando dados públicos de ratings e vendas.
+Welcome to my portfolio of **Data Science** and **Machine Learning** projects.  
 
-- **Data:** Out/2025  
-- **Tecnologias:** Python, Pandas, Matplotlib, Scikit-learn  
-- **Técnica:** Regressão Linear  
-- **Resultado:** 
-- **Repositório:**
+Here you'll find case studies, experiments, and end-to-end workflows, from data preprocessing and feature engineering to model evaluation and deployment.
+
+Each folder contains one independent project, complete with code, documentation, and datasets.
+
+### 🚀 Goals
+
+- Apply Machine Learning and Data Science to real-world problems.
+- Demonstrate end-to-end workflows, from data collection to model interpretation .
+- Build a solid portfolio using primarily Python, SQL, and Cloud tools.
+
+
+
+### 🧩 Project List
+
+| nº | Project | Description | Key Topics |
+| -- |----------|--------------|-------------|
+| 01 | [Startup Shutdown](https://github.com/bruno-lima98/project-01.git) | Predicting startup failure using Logistic Regression | Machine Learning, Logistic Regression |
+| 02 | - | - | - |
+
+*(More projects coming soon...)*
