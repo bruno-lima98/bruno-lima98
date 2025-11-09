@@ -58,3 +58,12 @@ Each folder contains one independent project, complete with code, documentation,
 | -  | - | - | - |
 
 *(More projects coming soon...)*
+
+## 📬 Contact
+
+If you'd like to connect or discuss any of these projects, feel free to reach out:
+
+**Bruno Lima**  
+📧 brunosilveiralima98@gmail.com  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/bruno-silveira-lima/)
+
