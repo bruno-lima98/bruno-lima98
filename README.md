@@ -1,5 +1,5 @@
 # 👨‍💻 Bruno Lima  
-**`Data Analyst` | `Aspiring Data Scientist`**
+**`Data Analyst` | `Data Scientist`**
 
 Hello! I'm Bruno, 27 years old, and I’m constantly improving myself in the Data field.  
 I hold a degree in Mechanical Engineering from Unicamp and have been working as a Data Analyst for about two years.
@@ -54,6 +54,7 @@ Each folder contains one independent project, complete with code, documentation,
 | nº | Project | Description | Key Topics |
 | -- |----------|--------------|-------------|
 | 01 | [Startup Shutdown](https://github.com/bruno-lima98/project-01.git) | Predicting startup failure using Logistic Regression | Machine Learning, Logistic Regression |
-| 02 | - | - | - |
+| 02 | [Credit Card Fraud Transactions](https://github.com/bruno-lima98/project-02.git) | Finding suspect transactions of Credit Cards using Decisions Trees | Machine Learning, Decision Tree (a few models) |
+| -  | - | - | - |
 
 *(More projects coming soon...)*
