@@ -54,7 +54,10 @@ Each folder contains one independent project, complete with code, documentation,
 | nº | Project | Description | Key Topics |
 | -- |----------|--------------|-------------|
 | 01 | [Startup Shutdown](https://github.com/bruno-lima98/project-01.git) | Predicting startup failure using Logistic Regression | Machine Learning, Logistic Regression |
-| 02 | [Credit Card Fraud Transactions](https://github.com/bruno-lima98/project-02.git) | Finding suspect transactions of Credit Cards using Decisions Trees | Machine Learning, Decision Tree (a few models) |
+| 02 | [Olist Brazilian E-Commerce](https://github.com/bruno-lima98/portfolio-olist-brazilian-ecommerce.git) | Data science project for treatment and analysis techniques | Data Science |
+| 03 | [Recall of Cars](https://github.com/bruno-lima98/study-repo-cars-recall-challange.git) | Predicting the recall possibility in a small car dataset | Machine Learning, Logistic Regression, Random Forest, Decision Tree |
+| 04 | [Churn Project](https://github.com/bruno-lima98/portfolio-churn-project-tmw.git) | Discover if a user of Twitch could churn | Machine Learning, Logistic Regression, Random Forest, Decision Tree |
+| 05 | [Credit Card Fraud Transactions](https://github.com/bruno-lima98/project-02.git) | Finding suspect transactions of Credit Cards using Decisions Trees | (In implementation) |
 | -  | - | - | - |
 
 *(More projects coming soon...)*
