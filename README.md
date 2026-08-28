@@ -1,14 +1,15 @@
 # 👨‍💻 Bruno Lima  
-**`Data Analyst` | `Data Scientist`**
+**`Data Scientist`**
 
-Hello! I'm Bruno, 27 years old, and I’m constantly improving myself in the Data field.  
-I hold a degree in Mechanical Engineering from Unicamp and have been working as a Data Analyst for about two years.
+Hello! I'm Bruno, a Data Scientist with a degree in Mechanical Engineering from Unicamp and around three years of experience working with data.
 
-After focusing my career entirely on Data Analysis, I decided to deepen my knowledge in Data Science and Machine Learning.  
+I started my career as a Data Analyst, developing dashboards, business metrics, and data-driven solutions. Today, I work as a Data Scientist, applying machine learning and analytics to support business decision-making and develop predictive models.
 
-This repository is my space to share personal projects, practical experiments, and my learning journey in the world of data.  
+I'm passionate about turning data into insights and continuously improving my skills through personal projects, online courses, and hands-on experience.
 
-Feel free to explore and follow along!
+This repository showcases my projects, studies, and learning journey in Data Science, Machine Learning, and AI.
+
+Feel free to explore and connect!
 
 ## 🤖 Languages & Technologies
 <img 
@@ -29,7 +30,17 @@ Feel free to explore and follow along!
 <img 
     aling='left'
     width='30px'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
+/>
+<img 
+    aling='left'
+    width='30px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
+/>
+<img 
+    aling='left'
+    width='30px'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
 />
 
 
@@ -66,7 +77,6 @@ Each folder contains one independent project, complete with code, documentation,
 
 If you'd like to connect or discuss any of these projects, feel free to reach out:
 
-**Bruno Lima**  
-📧 brunosilveiralima98@gmail.com  
+**Bruno Lima**    
 💼 [LinkedIn Profile](https://www.linkedin.com/in/bruno-silveira-lima/)
 
