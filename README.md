@@ -43,6 +43,11 @@ Feel free to explore and connect!
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
 />
 
+## 🧠 My Data Science Methodology
+
+Beyond individual projects, I maintain a personal, evolving methodology for running data science projects end-to-end: it goes from problem framing to production monitoring and it is contantly refined through real project work and peer-reviewed against current market practice.
+
+📎 [`data-science-work-methodology`](https://github.com/bruno-lima98/data-science-work-methodology):  a domain-agnostic playbook, a reusable decision-log template, and a set of function-based AI-copilot "personas" I use to keep every project consistent, well-documented, and grounded in the same set of standards.
 
 ## 📝 Data Science & Machine Learning Projects
 
@@ -79,4 +84,3 @@ If you'd like to connect or discuss any of these projects, feel free to reach ou
 
 **Bruno Lima**    
 💼 [LinkedIn Profile](https://www.linkedin.com/in/bruno-silveira-lima/)
-
